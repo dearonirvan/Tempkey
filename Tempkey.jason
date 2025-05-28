@@ -1,8 +1,8 @@
 [
   {
     "id": "25eadac2643c11c3",
-    "username": "brian",
-    "password": "brian",
+    "username": "kosong",
+    "password": "kosong",
     "expiresAt": "2025-12-30",
     "allowOffline": true
   },
@@ -10,27 +10,27 @@
     "id": "d9821c2b986e67ef",
     "username": "sekcam",
     "password": "sekcam",
-    "expiresAt": "2025-07-30",
+    "expiresAt": "2025-12-30",
     "allowOffline": true
   },
   {
     "id": "b9d27affa2ec883e",
-    "username": "umam",
-    "password": "umam",
+    "username": "kosong",
+    "password": "kosong",
     "expiresAt": "2025-07-30",
     "allowOffline": true
   },
   {
     "id": "294a9cfa377baa70",
-    "username": "ithonk",
-    "password": "ithonk",
+    "username": "kosong",
+    "password": "kosong",
     "expiresAt": "2025-07-30",
     "allowOffline": true
   },
   {
     "id": "294a9cfa377baa70",
-    "username": "awang",
-    "password": "awang",
+    "username": "kosong",
+    "password": "kosong",
     "expiresAt": "2025-07-30",
     "allowOffline": true
   },
@@ -43,8 +43,8 @@
   },
   {
     "id": "53ec175a75ede460",
-    "username": "deni",
-    "password": "deni",
+    "username": "kosong",
+    "password": "kosong",
     "expiresAt": "2025-12-30",
     "allowOffline": true
   },
