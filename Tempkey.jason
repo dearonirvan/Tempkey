@@ -38,7 +38,7 @@
     "id": "2d1800cc80c84d82",
     "username": "komandan",
     "password": "komandan",
-    "expiresAt": "2025-07-30",
+    "expiresAt": "2025-12-30",
     "allowOffline": true
   },
   {
@@ -50,8 +50,8 @@
   },
   {
     "id": "dd5c2d978e070112",
-    "username": "alam",
-    "password": "alam",
+    "username": "kosong",
+    "password": "kosong",
     "expiresAt": "2025-12-30",
     "allowOffline": true
   },
