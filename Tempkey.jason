@@ -4,7 +4,7 @@
     "username": "awang",
     "password": "awang",
     "expiresAt": "2025-12-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "d9821c2b986e67ef",
