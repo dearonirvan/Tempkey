@@ -4,7 +4,7 @@
     "username": "awang",
     "password": "awang",
     "expiresAt": "2025-12-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "d9821c2b986e67ef",
@@ -32,7 +32,7 @@
     "username": "edi",
     "password": "edi",
     "expiresAt": "2025-12-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "2d1800cc80c84d82",
