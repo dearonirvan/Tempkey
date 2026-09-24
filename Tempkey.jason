@@ -124,5 +124,12 @@
     "password": "gue",
     "expiresAt": "2026-12-30",
     "allowOffline": false
+  },
+  {
+    "id": "272c882f69fd0819",
+    "username": "abror",
+    "password": "abror",
+    "expiresAt": "2026-11-03",
+    "allowOffline": false
   }
 ]
